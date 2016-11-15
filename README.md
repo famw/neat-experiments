@@ -7,7 +7,7 @@ For each experiment we need to save the following things:
 - Configs used
     - NEAT parameters
     - spelunkbots.ini
-- Starter Genes
+    - Starter Genes
 - Output files
 - Execution time (in this case, we can grab the first and the last generation
   timestamps)
