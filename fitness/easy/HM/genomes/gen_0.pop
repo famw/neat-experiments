@@ -2,7 +2,7 @@
 /* Species #1 : (Size 100) (AF 0) (Age 1)  */
 
 
-/* Organism #1 Fitness: 0.0134503 Error: 0 */
+/* Organism #1 Fitness: 0.00188285 Error: 0 */
 genomestart 1
 trait 1 0 0 0 0 0 0 0 0 
 node 1 1 1 1
@@ -512,7 +512,7 @@ gene 1 26 27 0.83343 0 51 0.83343 1
 gene 1 26 28 -0.380078 0 52 -0.380078 1
 genomeend 6
 
-/* Organism #7 Fitness: 0.017207 Error: 0 */
+/* Organism #7 Fitness: 0.0019685 Error: 0 */
 genomestart 7
 trait 1 0 0 0 0 0 0 0 0 
 node 1 1 1 1
@@ -682,7 +682,7 @@ gene 1 26 27 0.394299 0 51 0.394299 1
 gene 1 26 28 0.0448012 0 52 0.0448012 1
 genomeend 8
 
-/* Organism #9 Fitness: 0.0179673 Error: 0 */
+/* Organism #9 Fitness: 0.00198224 Error: 0 */
 genomestart 9
 trait 1 0 0 0 0 0 0 0 0 
 node 1 1 1 1
@@ -852,7 +852,7 @@ gene 1 26 27 0.73162 0 51 0.73162 1
 gene 1 26 28 -0.254433 0 52 -0.254433 1
 genomeend 10
 
-/* Organism #11 Fitness: 0.0114504 Error: 0 */
+/* Organism #11 Fitness: 0.00189394 Error: 0 */
 genomestart 11
 trait 1 0 0 0 0 0 0 0 0 
 node 1 1 1 1
@@ -937,7 +937,7 @@ gene 1 26 27 -0.350719 0 51 -0.350719 1
 gene 1 26 28 -0.911954 0 52 -0.911954 1
 genomeend 11
 
-/* Organism #12 Fitness: 0.0189189 Error: 0 */
+/* Organism #12 Fitness: 0.0189493 Error: 0 */
 genomestart 12
 trait 1 0 0 0 0 0 0 0 0 
 node 1 1 1 1
@@ -1022,7 +1022,7 @@ gene 1 26 27 0.202582 0 51 0.202582 1
 gene 1 26 28 0.337168 0 52 0.337168 1
 genomeend 12
 
-/* Organism #13 Fitness: 0.0193746 Error: 0 */
+/* Organism #13 Fitness: 0.00199442 Error: 0 */
 genomestart 13
 trait 1 0 0 0 0 0 0 0 0 
 node 1 1 1 1
@@ -1192,7 +1192,7 @@ gene 1 26 27 0.973388 0 51 0.973388 1
 gene 1 26 28 0.0321055 0 52 0.0321055 1
 genomeend 14
 
-/* Organism #15 Fitness: 0.0189444 Error: 0 */
+/* Organism #15 Fitness: 0.00198949 Error: 0 */
 genomestart 15
 trait 1 0 0 0 0 0 0 0 0 
 node 1 1 1 1
@@ -1787,7 +1787,7 @@ gene 1 26 27 -0.974029 0 51 -0.974029 1
 gene 1 26 28 -0.900082 0 52 -0.900082 1
 genomeend 21
 
-/* Organism #22 Fitness: 0.0169399 Error: 0 */
+/* Organism #22 Fitness: 0.017207 Error: 0 */
 genomestart 22
 trait 1 0 0 0 0 0 0 0 0 
 node 1 1 1 1
@@ -1872,7 +1872,7 @@ gene 1 26 27 -0.595721 0 51 -0.595721 1
 gene 1 26 28 0.897702 0 52 0.897702 1
 genomeend 22
 
-/* Organism #23 Fitness: 0.0189444 Error: 0 */
+/* Organism #23 Fitness: 0.0189394 Error: 0 */
 genomestart 23
 trait 1 0 0 0 0 0 0 0 0 
 node 1 1 1 1
@@ -2212,7 +2212,7 @@ gene 1 26 27 0.896756 0 51 0.896756 1
 gene 1 26 28 -0.765404 0 52 -0.765404 1
 genomeend 26
 
-/* Organism #27 Fitness: 0.0182663 Error: 0 */
+/* Organism #27 Fitness: 0.00197785 Error: 0 */
 genomestart 27
 trait 1 0 0 0 0 0 0 0 0 
 node 1 1 1 1
@@ -2382,7 +2382,7 @@ gene 1 26 27 -0.22364 0 51 -0.22364 1
 gene 1 26 28 -0.780236 0 52 -0.780236 1
 genomeend 28
 
-/* Organism #29 Fitness: 0.017207 Error: 0 */
+/* Organism #29 Fitness: 0.00197272 Error: 0 */
 genomestart 29
 trait 1 0 0 0 0 0 0 0 0 
 node 1 1 1 1
@@ -2637,7 +2637,7 @@ gene 1 26 27 -0.88525 0 51 -0.88525 1
 gene 1 26 28 -0.539781 0 52 -0.539781 1
 genomeend 31
 
-/* Organism #32 Fitness: 0.0175439 Error: 0 */
+/* Organism #32 Fitness: 0.00197095 Error: 0 */
 genomestart 32
 trait 1 0 0 0 0 0 0 0 0 
 node 1 1 1 1
@@ -3572,7 +3572,7 @@ gene 1 26 27 0.805689 0 51 0.805689 1
 gene 1 26 28 0.401807 0 52 0.401807 1
 genomeend 42
 
-/* Organism #43 Fitness: 0.0117647 Error: 0 */
+/* Organism #43 Fitness: 0.0134503 Error: 0 */
 genomestart 43
 trait 1 0 0 0 0 0 0 0 0 
 node 1 1 1 1
@@ -3742,7 +3742,7 @@ gene 1 26 27 -0.894436 0 51 -0.894436 1
 gene 1 26 28 -0.0554827 0 52 -0.0554827 1
 genomeend 44
 
-/* Organism #45 Fitness: 0.0171355 Error: 0 */
+/* Organism #45 Fitness: 0.00197305 Error: 0 */
 genomestart 45
 trait 1 0 0 0 0 0 0 0 0 
 node 1 1 1 1
@@ -4592,7 +4592,7 @@ gene 1 26 27 0.444838 0 51 0.444838 1
 gene 1 26 28 -0.253334 0 52 -0.253334 1
 genomeend 54
 
-/* Organism #55 Fitness: 0.0171717 Error: 0 */
+/* Organism #55 Fitness: 0.00196146 Error: 0 */
 genomestart 55
 trait 1 0 0 0 0 0 0 0 0 
 node 1 1 1 1
@@ -4677,7 +4677,7 @@ gene 1 26 27 -0.157079 0 51 -0.157079 1
 gene 1 26 28 0.791101 0 52 0.791101 1
 genomeend 55
 
-/* Organism #56 Fitness: 0.0125828 Error: 0 */
+/* Organism #56 Fitness: 0.00194274 Error: 0 */
 genomestart 56
 trait 1 0 0 0 0 0 0 0 0 
 node 1 1 1 1
@@ -4932,7 +4932,7 @@ gene 1 26 27 -0.194433 0 51 -0.194433 1
 gene 1 26 28 -0.864132 0 52 -0.864132 1
 genomeend 58
 
-/* Organism #59 Fitness: 0.01939 Error: 0 */
+/* Organism #59 Fitness: 0.0193883 Error: 0 */
 genomestart 59
 trait 1 0 0 0 0 0 0 0 0 
 node 1 1 1 1
@@ -5272,7 +5272,7 @@ gene 1 26 27 0.16007 0 51 0.16007 1
 gene 1 26 28 0.549242 0 52 0.549242 1
 genomeend 62
 
-/* Organism #63 Fitness: 0.0192893 Error: 0 */
+/* Organism #63 Fitness: 0.0193416 Error: 0 */
 genomestart 63
 trait 1 0 0 0 0 0 0 0 0 
 node 1 1 1 1
@@ -6462,7 +6462,7 @@ gene 1 26 27 0.345378 0 51 0.345378 1
 gene 1 26 28 0.940214 0 52 0.940214 1
 genomeend 76
 
-/* Organism #77 Fitness: 0.0194185 Error: 0 */
+/* Organism #77 Fitness: 0.00199433 Error: 0 */
 genomestart 77
 trait 1 0 0 0 0 0 0 0 0 
 node 1 1 1 1
@@ -6632,7 +6632,7 @@ gene 1 26 27 -0.618397 0 51 -0.618397 1
 gene 1 26 28 0.431349 0 52 0.431349 1
 genomeend 78
 
-/* Organism #79 Fitness: 0.0193676 Error: 0 */
+/* Organism #79 Fitness: 0.0193764 Error: 0 */
 genomestart 79
 trait 1 0 0 0 0 0 0 0 0 
 node 1 1 1 1
@@ -7227,7 +7227,7 @@ gene 1 26 27 -0.9082 0 51 -0.9082 1
 gene 1 26 28 -0.0431227 0 52 -0.0431227 1
 genomeend 85
 
-/* Organism #86 Fitness: 0.0193175 Error: 0 */
+/* Organism #86 Fitness: 0.00199412 Error: 0 */
 genomestart 86
 trait 1 0 0 0 0 0 0 0 0 
 node 1 1 1 1
@@ -7397,7 +7397,7 @@ gene 1 26 27 -0.534318 0 51 -0.534318 1
 gene 1 26 28 0.250618 0 52 0.250618 1
 genomeend 87
 
-/* Organism #88 Fitness: 0.0190751 Error: 0 */
+/* Organism #88 Fitness: 0.0190269 Error: 0 */
 genomestart 88
 trait 1 0 0 0 0 0 0 0 0 
 node 1 1 1 1
@@ -8162,7 +8162,8 @@ gene 1 26 27 0.708213 0 51 0.708213 1
 gene 1 26 28 -0.252632 0 52 -0.252632 1
 genomeend 96
 
-/* Organism #97 Fitness: 0.0194605 Error: 0 */
+/* Organism #97 Fitness: 0.12136 Error: 0 */
+/* ##------$ WINNER 97 SPECIES #1 $------## */
 genomestart 97
 trait 1 0 0 0 0 0 0 0 0 
 node 1 1 1 1
@@ -8247,7 +8248,7 @@ gene 1 26 27 0.964599 0 51 0.964599 1
 gene 1 26 28 -0.354808 0 52 -0.354808 1
 genomeend 97
 
-/* Organism #98 Fitness: 0.0190141 Error: 0 */
+/* Organism #98 Fitness: 0.0188922 Error: 0 */
 genomestart 98
 trait 1 0 0 0 0 0 0 0 0 
 node 1 1 1 1

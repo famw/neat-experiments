@@ -1,4 +1,4 @@
 Fitness - Easy - HM
 
-- First Generation: Nov 16, 02:34
-- Last Generation: Nov 17, 03:57
+- First Generation: Nov 18, 05:33
+- Last Generation: Nov 19, 04:02
